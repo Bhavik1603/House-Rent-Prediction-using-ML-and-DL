@@ -15,3 +15,7 @@ Install the necessary modules using the following command:
 ```bash
 pip install -r requirements.txt
 ```
+Now, run the following command to start the application
+```bash
+python app.py
+```
