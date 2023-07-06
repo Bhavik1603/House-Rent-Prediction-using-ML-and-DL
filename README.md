@@ -1,5 +1,5 @@
 ## House-Rent-Prediction-using-ML-and-DL
-A web application that predicts the rent of houses in Mumbai based on the house rent of nearby houses and  the house condition seen in the images provided by the users using Deep Learning. 
+A web application that predicts the rent of houses in Mumbai based on the house rent of nearby houses and  the house condition seen in the images provided by the users using Deep Learning. <br>
 Skills Used: Machine Learning, Python, Image Classification, Flask, HTML5, CSS3 and JavaScript.
 
 ## How to use
