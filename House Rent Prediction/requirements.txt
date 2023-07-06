@@ -1,0 +1,7 @@
+pandas
+flask
+scikit-learn
+pixellib
+torch
+pycocotools
+torchvision
