@@ -21,4 +21,4 @@ python app.py
 ```
 
 ## Certificate of Publication
-![Publication Certificate](image link)
+![Publication Certificate](https://github.com/Bhavik1603/House-Rent-Prediction-using-ML-and-DL/blob/main/Certificate%20of%20Publication.png)
