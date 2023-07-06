@@ -4,3 +4,7 @@ Skills Used: Machine Learning, Python, Image Classification, Flask, HTML5, CSS3 
 
 ## How to use
 Firstly, download [pointrend_resnet50.pkl](https://github.com/ayoolaolafenwa/PixelLib/releases/download/0.2.0/pointrend_resnet50.pkl)
+Create an Environment Variable and install the necessary modules using following command:
+```bash
+pip install -r requirements.txt
+```
